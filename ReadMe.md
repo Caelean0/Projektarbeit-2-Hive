@@ -7,7 +7,7 @@ My tasks and responsibilities within the project include all of the programming 
 
 This project, "Hive", was created by Team WenigerSalz, consisting of 2nd semester Game Development students at SRH Heidelberg.
 The assignment was to create a 2D top-down pixel art game with a custom mini-engine using C++ and the Raylib library.
-The Executable for the Game can be downloaded here:
+The executable for the game can be downloaded here:
 https://mrgrey3913.itch.io/hive
 
 The team consists of the following members:
@@ -40,6 +40,10 @@ Within this time, all of the following had to be built from the ground up:
     
 - Project Management Toolchain (This repository does not contain a GitHub Wiki; all project management and documentation were done using Atlassian software: Jira & Confluence)
 - Social Media Content
+---
+
+## This Project has won the following awards at the universities Werkschau:
+- Most Potential (3rd Place)
 ---
 
 Considering that the entire project was developed within just six months and with very limited prior experience in game engine funtionality, the team is proud of what has been accomplished.

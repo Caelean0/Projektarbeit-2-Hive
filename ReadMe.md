@@ -1,6 +1,6 @@
 ## Personal Fork
 This is a personal fork of this repository, primarily used as a showcase. 
-My tasks and responsibilities within the project include all of the programming duties listed below, as well as managing the SCRUM workflow and the project management toolchain."
+My tasks and responsibilities within the project include all of the programming duties listed below, as well as managing the SCRUM workflow and the project management toolchain.
 
 ---
 # Hive – 2nd Semester Project
